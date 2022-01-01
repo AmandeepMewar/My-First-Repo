@@ -1,2 +1,2 @@
-# Code that will make your life easy.
+# Codes that may make your life easy.
 Thank me later bitch.
