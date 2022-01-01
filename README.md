@@ -1,3 +1,2 @@
-# C-Programs
-This is a very very basic implementation of stack using 2d array.
-Hope you stand it.
+# Code that will make your life easy.
+Thank me later bitch.
