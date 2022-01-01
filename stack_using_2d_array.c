@@ -1,3 +1,5 @@
+//Implementation of stack using 2-dimenstional array.
+
 #include <stdio.h>
 
 void push(int r,int c,int stack[r][c],int *topr,int *topc,int item){
