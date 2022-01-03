@@ -1,2 +1,1 @@
-# Codes that may make your life easy.
-Thank me later bitch.
+# Thank me later bitch.
