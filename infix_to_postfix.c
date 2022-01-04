@@ -1,3 +1,5 @@
+//Infix to postfix conversion simple code.
+
 #include <stdio.h>
 #include <ctype.h>
 #define MAX 50
