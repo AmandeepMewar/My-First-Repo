@@ -1,3 +1,5 @@
+//Program to print first recurring character in a string.
+
 #include <stdio.h>
 #define MAX 50
 #include <string.h>
