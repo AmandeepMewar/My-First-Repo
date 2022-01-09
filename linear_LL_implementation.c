@@ -165,7 +165,8 @@ int main(){
 				printf("List is Empty\n");
 			}
 			else
-			displayFromStart(head);
+			    displayFromStart(head);
+			    printf("\n");
 			break;
 			
 			case 8: if (isEmpty(head)){
@@ -173,6 +174,7 @@ int main(){
 			}
 			else
 			   displayFromEnd(head);
+			   printf("\n");
 			break;
 			
 			case 9: printf("Exiting...\n");
